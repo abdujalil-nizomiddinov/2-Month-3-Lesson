@@ -351,6 +351,7 @@ footer .container {
   font-weight: 600;
   color: white;
   font-size: 14px;
+  transition: 500ms;
 }
 .footer__menu ul a:hover{
   color: #d87d4a;
