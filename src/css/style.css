@@ -352,6 +352,9 @@ footer .container {
   color: white;
   font-size: 14px;
 }
+.footer__menu ul a:hover{
+  color: #d87d4a;
+}
 .footer__title {
   padding-bottom: 60px;
   display: flex;
